@@ -1,0 +1,42 @@
+[
+  {
+    "domain": "www.test-domain.co.uk",
+    "page_key": "returns",
+    "translation_key": "returnsHeading",
+    "translation_value": "Returns",
+    "notes": "",
+    "translation_type": "web"
+  },
+  {
+    "domain": "www.test-domain.co.uk",
+    "page_key": "returns",
+    "translation_key": "returnsText",
+    "translation_value": "This is the main body of text...",
+    "notes": "",
+    "translation_type": "web"
+  },
+  {
+    "domain": "www.test-domain.co.uk",
+    "page_key": "returns",
+    "translation_key": "returnsButton",
+    "translation_value": "Return",
+    "notes": "",
+    "translation_type": "web"
+  },
+  {
+    "domain": "www.test-domain.co.uk",
+    "page_key": "returns",
+    "translation_key": "returnsErrorMsg",
+    "translation_value": "Please complete all fields",
+    "notes": "",
+    "translation_type": "web"
+  },
+  {
+    "domain": "www.test-domain.co.uk",
+    "page_key": "returns",
+    "translation_key": "returnsSnackbarMsg",
+    "translation_value": "Success!",
+    "notes": "",
+    "translation_type": "web"
+  }
+]
