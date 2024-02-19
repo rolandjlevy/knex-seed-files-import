@@ -10,8 +10,11 @@ const readInsertsFolder = () =>
     const filePath = path.join(insertsFolderPath, fileName);
     const fileContent = fs.readFileSync(filePath, 'utf-8');
     const items = JSON.parse(fileContent);
-    acc = [...acc, ...items];
-    return acc;
+    const itemsWithDomain = items.map((item) => ({
+      ...item,
+      domain: 'www.dev.testing.com'
+    }));
+    return [...acc, ...itemsWithDomain];
   }, []);
 
 const insertsArray = readInsertsFolder();

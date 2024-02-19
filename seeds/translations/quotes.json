@@ -1,6 +1,5 @@
 [
   {
-    "domain": "www.test-domain.co.uk",
     "page_key": "quotes",
     "translation_key": "quotesText",
     "translation_value": "This is text for quotes",
@@ -8,7 +7,6 @@
     "translation_type": "web"
   },
   {
-    "domain": "www.test-domain.co.uk",
     "page_key": "quotes",
     "translation_key": "quotesButton",
     "translation_value": "Quotes",
@@ -16,7 +14,6 @@
     "translation_type": "web"
   },
   {
-    "domain": "www.test-domain.co.uk",
     "page_key": "quotes",
     "translation_key": "quotesErrorMsg",
     "translation_value": "Please complete all fields",
@@ -24,7 +21,6 @@
     "translation_type": "web"
   },
   {
-    "domain": "www.test-domain.co.uk",
     "page_key": "quotes",
     "translation_key": "quotesSnackbarMsg",
     "translation_value": "Success",
@@ -32,7 +28,6 @@
     "translation_type": "web"
   },
   {
-    "domain": "www.test-domain.co.uk",
     "page_key": "quotes",
     "translation_key": "cancelButton",
     "translation_value": "Cancel",
