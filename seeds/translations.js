@@ -20,7 +20,7 @@ const readInsertsFolder = () =>
 const insertsArray = readInsertsFolder();
 console.log({ insertsArrayLength: insertsArray.length, insertsArray });
 
-// exports.seed = async function (knex) {
+// exports.seed = async (knex) => {
 //   try {
 //     await knex('b2m.translation').del(); // do we need del()?
 //     await knex('b2m.translation').insert(insertsArray);
